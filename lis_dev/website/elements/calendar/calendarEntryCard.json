@@ -1,0 +1,15 @@
+{
+    "color": "{RGB value}",
+    "classes": [],
+    "height": 0,
+    "width": 0,
+    "content": {
+        "headline": {
+            "height": 0,
+            "text": "{CALENDAR ENTRY}"
+        },
+        "body": {
+            
+        }
+    }
+}

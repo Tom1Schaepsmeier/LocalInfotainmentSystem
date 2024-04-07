@@ -1,4 +1,4 @@
-version      = "0.1"
+version      = "1.1.1"
 author       = "Tom Schäpsmeier"
 description  = "Infotainment System to display various data"
 license      = "MIT"
