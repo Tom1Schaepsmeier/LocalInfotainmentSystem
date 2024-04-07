@@ -7,7 +7,7 @@
 ###############################################################
 
 import std/[strutils, envvars, macros]
-import src/types
+import ./types
 
 proc parseEnv[T](key: string; default: T): T =
   let val = getEnv(key.toUpperAscii(), $default)

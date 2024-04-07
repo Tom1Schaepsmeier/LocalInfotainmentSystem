@@ -7,8 +7,8 @@
 ###############################################################
 
 import std/[exitprocs, posix, strformat]
-import src/server/[config, router]
-import src/middlewares/formatters
+import ./[config, router]
+import ./middlewares/formatters
 
 proc main() = 
     addExitProc(GC_fullCollect)

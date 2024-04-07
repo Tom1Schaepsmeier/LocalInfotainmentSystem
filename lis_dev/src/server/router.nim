@@ -7,7 +7,7 @@
 ###############################################################
 
 import jester
-import src/types
+import ./types
 
 proc startRouter*(cfg: Config) =
     settings:

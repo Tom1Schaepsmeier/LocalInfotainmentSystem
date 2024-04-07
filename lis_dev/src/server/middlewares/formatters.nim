@@ -6,7 +6,7 @@
 #
 ###############################################################
 
-import src/types
+import server/types
 
 proc getUrlPrefix*(cfg: Config): string =
   if cfg.server_useHttps: "https://" & cfg.server_hostname
