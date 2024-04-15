@@ -1,15 +1,29 @@
 {
     "color": "{RGB value}",
-    "classes": [],
     "height": 0,
     "width": 0,
+    "div": [
+
+    ],
     "content": {
-        "headline": {
-            "height": 0,
+        "id": 0,
+        "name": "",
+        "title": {
+            "div": [],
+            "level": 3,
             "text": "{CALENDAR ENTRY}"
         },
         "body": {
-            
+            "div": [],
+            "date": "",
+            "time": "",
+            "calendar": "",
+            "label": {
+                "name": "",
+                "color": ""
+            },
+            "location": "",
+            "notes": ""
         }
     }
 }

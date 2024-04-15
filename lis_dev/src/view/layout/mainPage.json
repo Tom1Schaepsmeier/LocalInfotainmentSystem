@@ -1,0 +1,39 @@
+{
+    "div": [
+
+    ],
+    "format": "two-side",
+    "content": {
+        "left": {
+            "headline": {
+                "div": [
+
+                ],
+                "level": 3,
+                "text": "Kalender"
+            },
+            "body": {
+                "div": [
+
+                ],
+                "entries": []
+            }
+        },
+        "right": {
+            "headline": {
+                "div": [
+
+                ],
+                "level": 3,
+                "text": "Sensordaten"
+            },
+            "body": {
+                "div": [
+
+                ],
+                "entries": []
+            }
+        }
+    }
+
+}
