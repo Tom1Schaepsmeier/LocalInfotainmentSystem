@@ -1,0 +1,10 @@
+{
+    "id": "{ENTRY NUMBER}",
+    "card-color": "{CARD-COLOR}",
+    "entry_name": "{ENTRY NAME}",
+    "day": "{DAY}",
+    "time": "{TIME}",
+    "calendar": "{CALENDAR}",
+    "label-color": "{LABEL-COLOR}",
+    "label": "{LABEL}"
+}

@@ -1,0 +1,100 @@
+{
+    "numberEntries": 5,
+    "content": [
+        {
+            "element": "div",
+            "attributes": {
+                "class": ["card", "mb-3"],
+                "style": ["background-color:{CARD-COLOR}"],
+                "id":"{ENTRY NUMBER}"
+            },
+            "content": [
+                {
+                    "element": "div",
+                    "attributes": {
+                        "class": ["card-header", "bg-body-tertiary"]
+                    },
+                    "content": [
+                        {
+                            "element": ["headline", 4],
+                            "attributes": {
+                                "class": ["mb-0"]
+                            },
+                            "content": [
+                                {
+                                    "element": "text",
+                                    "value": "{ENTRY NAME}"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "div",
+                    "attributes": {
+                        "class": ["card-body", "text-justify"]
+                    },
+                    "content": [
+                        {
+                            "element": "unordered-list",
+                            "attributes": {
+                                "class": ["list-group", "list-group-flush"]
+                            },
+                            "content": [
+                                {
+                                    "element": "list-item",
+                                    "attributes": {
+                                        "class": ["list-group-item"]
+                                    },
+                                    "content": [
+                                        {
+                                            "element": "text",
+                                            "value": "{DAY}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "list-item",
+                                    "attributes": {
+                                        "class": ["list-group-item"]
+                                    },
+                                    "content": [
+                                        {
+                                            "element": "text",
+                                            "value": "{TIME}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "list-item",
+                                    "attributes": {
+                                        "class": ["list-group-item"]
+                                    },
+                                    "content": [
+                                        {
+                                            "element": "text",
+                                            "value": "{CALENDAR}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "list-item",
+                                    "attributes": {
+                                        "class": ["list-group-item"]
+                                    },
+                                    "content": [
+                                        {
+                                            "element": "text",
+                                            "value": "{LABEL}"
+                                        }
+                                    ]
+                                }
+                                
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
